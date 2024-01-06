@@ -43,6 +43,7 @@ augument = keras.Sequential(layers=[
 ])
 ```
 - Visualization
+
 ![image1](Data/Screenshot%202024-01-06%20215656.png) 
 ![image](Data/Screenshot%202024-01-06%20215758.png)
 
